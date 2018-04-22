@@ -25,9 +25,9 @@ Decoding an AVS2 ES file.
 
 `AVS2-P2/IEEE1857.4` Decoder: [davs2 (Github)][4], [davs2 (mirror in China)][5]
 
-`FFmpegAVS2` FFmpeg with AVS2 support:  [FFmpegAVS2 (Github)] [6], [FFmpegAVS2 (mirror in China)] [7]
+`FFmpegAVS2` FFmpeg with AVS2 support:  [FFmpegAVS2 (Github)][6], [FFmpegAVS2 (mirror in China)][7]
 
-`buildFFmpegAVS2`: [build script of FFmpegAVS2 (Github)] [8], [build script of FFmpegAVS2 (mirror in China)] [9]
+`buildFFmpegAVS2`: [build script of FFmpegAVS2 (Github)][8], [build script of FFmpegAVS2 (mirror in China)][9]
 
   [1]: http://vcl.idm.pku.edu.cn/ "PKU-VCL"
   [2]: https://github.com/pkuvcl/xavs2 "xavs2 github repository"
