@@ -80,7 +80,6 @@ export PKG_CONFIG_PATH=$build_dir/avs2_lib/lib/pkgconfig
   --enable-gpl \
   --enable-libxavs2 \
   --enable-libdavs2 \
-  --enable-nonfree \
   --enable-shared \
   --enable-static
 
