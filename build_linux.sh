@@ -6,10 +6,6 @@
 #               2018~ Huiwen Ren
 #               2018~ VCL, NELVT, PKU
 
-###############################
-# Sync repositories
-###############################
-
 touch build.log
 echo "BUILD TIME: $(date +%Y-%m-%d)" > build.log
 
@@ -35,6 +31,9 @@ printLog()
     $@ >> $build_dir/build.log
 }
 
+###############################
+# Sync repositories
+###############################
 checkGitSources()
 {
     echo ">>>>"
